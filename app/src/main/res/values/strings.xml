@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sample2</string>
+    <string name="splash_title">@string/app_name</string>
+    <string name="splash_description">Extremely Smooth and Easy\nCropping library for you</string>
+    <string name="splash_start">Start</string>
+
+
+    <string name="editing">Editing</string>
+
+
+    <!--error-->
+    <string name="error_permission_denied">Permission Denied</string>
+    <string name="error_permission_is_off">Permission is off</string>
+</resources>
